@@ -1,2 +1,2 @@
-# Treball Final de Grau
- SEGMENTACIÓ DE LESIONS CEREBRALS PROCEDENTS D’IMATGES MÈDIQUES PER LA SEVA POSTERIOR DIGITALITZACIÓ I IMPRESIÓ EN 3D
+# Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D
+Treball Final de Grau (TFG) del grau d'enginyeria biomèdica de la Universitat de Girona.

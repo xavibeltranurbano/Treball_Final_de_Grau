@@ -61,6 +61,6 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
  
  ### Model obtingut mitjançant un tall transversal
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_1.png)
-![Aquí la descripción de la imagen por si no carga](IImatges_repositori/Transversal_2.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_2.png)
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_3.png)
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_4.png)

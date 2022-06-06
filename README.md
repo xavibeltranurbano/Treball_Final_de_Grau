@@ -40,13 +40,15 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 
 3. A continuació observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani, o per contra, està flotant. En cas que aquesta estigui flotant, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  
  
- 
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Insertar_Suport.PNG)
+ <p align="center" width="100%">
+    <img width="30%" src="Imatges_repositori/Insertar_Suport.PNG">
+</p>
  
 
 4. Seguidament, obrirem els fitxers resultants del pas anterior amb el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap a vall, per tal d'optimitzar la impressió. Un cop re-orientat el model, donat que la forma del model no es uniforme, haurem de col·locar diferents suports, de forma manual, pel voltant d'aquest. Per fer això utilitzarem el plugin 'Csutom Supports'. En acabar de col·locar els suports, exportarem el model en format '.gcode'i el guardarem en una memòria USB. Imatges_repositori/Exemple_Suports.png
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
-
+<p align="center" width="100%">
+    <img width="30%" src="Imatges_repositori/Exemple_Suports.png">
+</p>
 
 5. Finalment, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
 

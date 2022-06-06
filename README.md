@@ -54,15 +54,14 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 
 ## Resultat final
 ### Model obtingut mitjançant un tall sagital
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_1.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_2.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_3.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_4.png)
  
  ### Model obtingut mitjançant un tall transversal
-->![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_1.png)<-
-->![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_2.png)<-
-->![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_3.png)<-
-->![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_4.png)<-
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_1.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_2.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_3.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_4.png)
 
--> hola <-

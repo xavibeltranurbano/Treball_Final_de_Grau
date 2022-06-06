@@ -10,3 +10,8 @@ Els requeriments per poder executar aquest projecte són els següents:
 - CuDNN 7.6.5
 - MATLAB R2022a
 - Base de dades del BraTS'18 [(BraTS'18 web)](https://www.med.upenn.edu/sbia/brats2018/registration.html)
+
+## MANUAL D'USUARI
+
+Els diferents passos per executar el present projecte són els següents:
+1. dfd

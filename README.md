@@ -43,11 +43,24 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Insertar_Suport.PNG)
  
 
-4. Seguidament, obrirem els fitxers resultants del pas anterior amb el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap a vall, per tal d'optimitzar la impressió. Un cop re-orientat el model, donat que la forma del model no es uniforme, haurem de col·locar diferents suports, de forma manual, pel voltant d'aquest. Per fer això utilitzarem el plugin 'Csutom Supports'. En acabar de col·locar els suports, exportarem el model en format '.gcode'i el guardarem en una memòria USB.
-
+4. Seguidament, obrirem els fitxers resultants del pas anterior amb el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap a vall, per tal d'optimitzar la impressió. Un cop re-orientat el model, donat que la forma del model no es uniforme, haurem de col·locar diferents suports, de forma manual, pel voltant d'aquest. Per fer això utilitzarem el plugin 'Csutom Supports'. En acabar de col·locar els suports, exportarem el model en format '.gcode'i el guardarem en una memòria USB. Imatges_repositori/Exemple_Suports.png
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
 
 
 5. Finalment, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
 
 6. Donat que el tamany dels models és molt grani, per tant, haurem d'imprimir aquests per separat, haurem de repetir els passos 3, 4 i 5 per cada model que volguem imprimir.
-7. 
+
+
+## Resultat final
+### Model obtingut mitjançant un tall sagital
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
+ 
+ ### Model obtingut mitjançant un tall transversal
+ ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)
+![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Exemple_Suports.png)

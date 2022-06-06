@@ -65,14 +65,12 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
     <img width="30%" src="Imatges_repositori/Sagital_1.png">
 </p>
 
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_1.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_2.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_3.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_4.png)
  
  ### ·Model obtingut mitjançant un tall transversal
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_1.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_2.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_3.png)
-![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Transversal_4.png)
+<p align="center" width="100%">
+    <img width="30%" src="Imatges_repositori/Transversal_1.png">
+    <img width="30%" src="Imatges_repositori/Transversal_1.png">
+    <img width="30%" src="Imatges_repositori/Transversal_1.png">
+    <img width="30%" src="Imatges_repositori/Transversal_1.png">
+</p>
 

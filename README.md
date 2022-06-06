@@ -17,7 +17,8 @@ Els diferents passos per executar el present projecte són els següents:
 1. Executar els programes encarregats de la segmentació. En cas d'utilitzar l'algoritme K-means, un cop segmentat el tumor, utilitzar la funció 'niftiwrite' per guardar la segmentació d'aquest al ordinador. Altrament, utilitzar el següent codi:
 
 
-`import numpy as np
+`
+import numpy as np
 import nibabel as nib
 
 converted_array = numpy.array(normal_array, dtype=numpy.float32) # You need to replace normal array by yours

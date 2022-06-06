@@ -55,6 +55,9 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 
 ## Resultat final
 ### Model obtingut mitjançant un tall sagital
+<h1 align="center"> Nombre de la herramienta</h1>
+<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
+<p align="center"><img src="Imatges_repositori/Sagital_1.png"/></p> 
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_1.png)
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_2.png)
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_3.png)

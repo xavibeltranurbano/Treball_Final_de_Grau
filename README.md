@@ -38,7 +38,14 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 - tumor.stl
 
 3. A continuació observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani, o per contra, està flotant. En cas que aquesta estigui flotant, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  
-  
+     
+        
+        
+         
+          
+           
+            
+             
   
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Insertar_Suport.PNG)
  

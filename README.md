@@ -58,9 +58,9 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 
 <p align="center" width="100%">
     <img width="30%" src="Imatges_repositori/Sagital_1.png">
-    <img width="30%" src="Imatges_repositori/Sagital_2.png">
-    <img width="30%" src="Imatges_repositori/Sagital_3.png">
-    <img width="30%" src="Imatges_repositori/Sagital_4.png">
+    <img width="30%" src="Imatges_repositori/Sagital_1.png">
+    <img width="30%" src="Imatges_repositori/Sagital_1.png">
+    <img width="30%" src="Imatges_repositori/Sagital_1.png">
 </p>
 
 ![Aquí la descripción de la imagen por si no carga](Imatges_repositori/Sagital_1.png)

@@ -26,7 +26,7 @@ import nibabel as nib
 
 converted_array = numpy.array(normal_array, dtype=numpy.float32) # Canviar normal_array per l'array que volem convertir al format nifti
 affine = numpy.eye(4)
-nifti_file = nibabel.Nifti1Image(converted_array, affine)
+nifti_file = nibabel.Nifti1Image(converted_array, affine) 
 path_to_save='PATH'
 nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on volem guardar la carpeta. En aquest directori ha d'estar especificat tant el nom de l'arxiu nifti que crearem, com la extensió d'aquest (.nii o .nii.gz)
 ```

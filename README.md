@@ -13,6 +13,7 @@ Els requeriments per poder executar aquest projecte són els següents:
 - Ultimaker Cura
 - Plugin Custom Supports
 - 3D Builder
+- Python 3.6.9
 
 ## MANUAL D'USUARI
 

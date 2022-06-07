@@ -62,7 +62,7 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
   - transversal2.stl
   - tumor.stl
 
-3. A continuació, observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani. En cas negatiu, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  "
+3. A continuació, observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani. En cas negatiu, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  
  
  <p align="center" width="100%">
     <img width="50%" src="Imatges_repositori/Insertar_Suport.PNG">

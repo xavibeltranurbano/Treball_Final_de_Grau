@@ -2,7 +2,7 @@
     <img width="100%" src="Imatges_repositori/logos2.png">
 </p>
 <p align="center" width="100%">
-    <img width="100%" src="Imatges_repositori/GIF_FLAIR.gif">
+    <img width="100%" src="Imatges_repositori/GIF_FLAIRS.gif">
 </p>
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D

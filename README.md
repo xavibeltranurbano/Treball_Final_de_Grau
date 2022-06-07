@@ -4,7 +4,7 @@
 </tr></table>
 
 <p align="center" width="100%">
-    <img width="100%" src="Imatges_repositori/klk.gif">
+    <img width="20%" src="Imatges_repositori/klk.gif">
 </p>
 
 

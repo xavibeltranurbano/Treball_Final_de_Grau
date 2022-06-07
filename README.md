@@ -9,15 +9,14 @@
 Treball Final de Grau (TFG) del grau d'enginyeria biomèdica de la Universitat de Girona.
 
 ## PROPÒSIT
-
-<p style="text-align: justify;">La finalitat d'aquest projecte és desenvolupar mètodes d'ajuda per realitzar un preoperatori d'una manera més personalitzada i completa. Concretament, els mètodes que s'han desenvolupat consisteixen en programes  de segmentació del tumor, on per acomplir aquesta tasca, s'han utilitzat algoritmes no supervisats (K-Means) així com tècniques supervisades basades en xarxes neuronals convolucionals (CNNs). Un cop segmentat el tumor, aquest s'ha digitalitzat i imprès en 3D juntament amb el crani del pacient en qüestió.</p>
+La finalitat d'aquest projecte és desenvolupar mètodes d'ajuda per realitzar un preoperatori d'una manera més personalitzada i completa. Concretament, els mètodes que s'han desenvolupat consisteixen en programes  de segmentació del tumor, on per acomplir aquesta tasca, s'han utilitzat algoritmes no supervisats (K-Means) així com tècniques supervisades basades en xarxes neuronals convolucionals (CNNs). Un cop segmentat el tumor, aquest s'ha digitalitzat i imprès en 3D juntament amb el crani del pacient en qüestió.
 
 ## REQUERIMENTS D'INSTAL·LACIÓ
 
 Els requeriments per poder executar aquest projecte són els següents:
 - CuDNN 7.6.5
 - MATLAB R2022a
-- SPM12
+- [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
 - Ultimaker Cura
 - Plugin Custom Supports
 - 3D Builder
@@ -34,13 +33,13 @@ Els requeriments per poder executar aquest projecte són els següents:
 
 ## BASE DE DADES
 
-<p style="text-align: justify;">La base de dades utilitzada en el projecte provenen del repte internacional conegut com a BraTS. Concretament, hem utilitzat les dades que es van utilitzar en aquest repte l'any 2018 [(BraTS'18 web)](https://www.med.upenn.edu/sbia/brats2018/registration.html) </p>
+La base de dades utilitzada en el projecte provenen del repte internacional conegut com a BraTS. Concretament, hem utilitzat les dades que es van utilitzar en aquest repte l'any 2018 [(BraTS'18 web)](https://www.med.upenn.edu/sbia/brats2018/registration.html)
 
 ## MANUAL D'USUARI
 
 Els diferents passos per executar el projecte, són els següents:
-1. <p style="text-align: justify;">Primerament hem d'obtenir la segmentació del tumor. Per acomplir aquesta tasca, haurem d'utilitzar algun dels models guardats dintre de la carpeta de la de segmentació binària mitjançant Deep Learning [(Clica per anar a la carpeta)](https://github.com/xavibeltranurbano/Treball_Final_de_Grau/tree/main/Segmentació%20del%20tumor/Deep%20Learning/Segmentació%20Binària).
-Un cop segmentat el tumor, per tal de convertir aquest en format 'nifti', utilitzarem el següent codi: </p>
+1.Primerament hem d'obtenir la segmentació del tumor. Per acomplir aquesta tasca, haurem d'utilitzar algun dels models guardats dintre de la carpeta de la de segmentació binària mitjançant Deep Learning [(Clica per anar a la carpeta)](https://github.com/xavibeltranurbano/Treball_Final_de_Grau/tree/main/Segmentació%20del%20tumor/Deep%20Learning/Segmentació%20Binària).
+Un cop segmentat el tumor, per tal de convertir aquest en format 'nifti', utilitzarem el següent codi: 
 
 
 ```ruby

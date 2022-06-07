@@ -1,7 +1,23 @@
 <table border="0" width="30%" height="auto"><tr>
-<th><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
+<th><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></th>
 <td><right><img width="4000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
+
+<h4>Encabezados verticales:</h4>
+<table border="1">
+<tr>
+ <th>Nombre:</th>
+ <td>Bill Gates</td>
+</tr>
+<tr>
+ <th>Telefono:</th>
+ <td>555 77 854</td>
+</tr>
+<tr>
+ <th>Telefono:</th>
+ <td>555 77 855</td>
+</tr>
+</table>
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D
 Treball Final de Grau (TFG) del grau d'enginyeria biomèdica de la Universitat de Girona.

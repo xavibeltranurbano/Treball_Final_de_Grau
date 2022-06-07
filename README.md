@@ -78,7 +78,7 @@ nibabel.save(nifti_file, path_to_save)
 <p align="center" width="100%">
     <img width="50%" src="Imatges_repositori/Exemple_Suports.png">
 </p>
-Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria USB.
+Finalment, un cop col·locats els suports, exportarem el model en format '.gcode'i el guardarem en una memòria USB.
 
 5. Per acabar, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
 

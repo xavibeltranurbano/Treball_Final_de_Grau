@@ -6,6 +6,12 @@
 </p>
 </div>
 
+<table border="0" width="95%" height="auto"><tr>
+<td><center><img src="" border="0"></center></td>
+<td><left><img src="Imatges_repositori/eps_logo.png" border="0"></left></td>
+<td><right><img src="Imatges_repositori/vicorob_logo.png" border="0"></right></td>
+</tr></table>
+
 <div id="unique-name" class="row">
 <div class="col-md-12">
     <img name="eps" width"20%" src="Imatges_repositori/eps_logo.png" id="eps" alt="" class="img-responsive" />

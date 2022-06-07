@@ -4,17 +4,9 @@
 </tr></table>
 
 <p align="center" width="100%">
-    <img width="23%" src="Imatges_repositori/flair.gif">
-    <img width="23%" src="Imatges_repositori/flair3.gif">
-    <img width="23%" src="Imatges_repositori/flair2.gif">
-    <img width="23%" src="Imatges_repositori/flair4.gif">
+    <img width="100%" src="Imatges_repositori/klk.gif">
 </p>
-<p align="center" width="100%">
-    <img width="23%" src="Imatges_repositori/seg.gif">
-    <img width="23%" src="Imatges_repositori/seg3.gif"> 
-    <img width="23%" src="Imatges_repositori/seg2.gif">
-    <img width="23%" src="Imatges_repositori/seg4.gif">
-</p>
+
 
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D

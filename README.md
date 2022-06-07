@@ -11,7 +11,7 @@
 </p>
 <p align="center" width="100%">
     <img width="23%" src="Imatges_repositori/seg.gif">
-    <img width="23%" src="Imatges_repositori/seg2.gif">
+    <img width="23%" src="Imatges_repositori/seg2.gif"> 
     <img width="23%" src="Imatges_repositori/seg3.gif">
     <img width="23%" src="Imatges_repositori/seg4.gif">
 </p>

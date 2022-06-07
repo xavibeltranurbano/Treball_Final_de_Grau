@@ -43,7 +43,7 @@ La base de dades utilitzada en el projecte prové del repte internacional conegu
 
 A continuació, explicarem detalladament els passos necessaris per tal d'executar aquest projecte. Aquests passos són els següents:
 
-1. Primerament, hem d'obtenir la segmentació del tumor. Per acomplir aquesta tasca, haurem d'utilitzar algun dels models guardats dintre de la carpeta de la de segmentació binària mitjançant Deep Learning [(Clica per anar a la carpeta)](https://github.com/xavibeltranurbano/Treball_Final_de_Grau/tree/main/Segmentació%20del%20tumor/Deep%20Learning/Segmentació%20Binària).
+1. Primerament, hem d'obtenir la segmentació del tumor. Per acomplir aquesta tasca, haurem d'utilitzar algun dels models guardats dintre de la carpeta de segmentació binària mitjançant Deep Learning [(Clica per anar a la carpeta)](https://github.com/xavibeltranurbano/Treball_Final_de_Grau/tree/main/Segmentació%20del%20tumor/Deep%20Learning/Segmentació%20Binària).
 Un cop segmentat el tumor, per tal de convertir aquest en format 'nifti', utilitzarem el següent codi: 
 
 

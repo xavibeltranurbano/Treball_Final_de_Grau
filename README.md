@@ -54,8 +54,8 @@ import nibabel as nib
 converted_array = numpy.array(normal_array, dtype=numpy.float32) # Canviar normal_array per l'array que volem convertir al format nifti
 affine = numpy.eye(4)
 nifti_file = nibabel.Nifti1Image(converted_array, affine) 
-path_to_save='PATH'
-nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on volem guardar la carpeta. En aquest directori ha d'estar especificat tant el nom de l'arxiu nifti que crearem, com l'extensió d'aquest (.nii o .nii.gz)
+path_to_save='PATH'# Canviar PATH pel directori on volem guardar la carpeta. En aquest directori ha d'estar especificat tant el nom de l'arxiu nifti que crearem, com l'extensió d'aquest (.nii o .nii.gz)
+nibabel.save(nifti_file, path_to_save) 
 ```
 2. Seguidament, mitjançant MATLAB, executarem el software SPM12 per tal d'obtenir les diferents màscares del pacient en qüestió (segmentació del crani, segmentació de la substància grisa, etc.).
 

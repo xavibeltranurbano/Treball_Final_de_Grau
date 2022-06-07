@@ -3,6 +3,9 @@
 <td><right><img width="4000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
 <p align="center" width="100%">
+    <img width="100%" src="Imatges_repositori/logos.PNG">
+</p>
+<p align="center" width="100%">
     <img width="100%" src="Imatges_repositori/tot.gif">
 </p>
 

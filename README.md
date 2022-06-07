@@ -68,7 +68,7 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 
 <p align="center" width="100%">
     <img width="45%" src="Imatges_repositori/Sagital_1.png">
-    <img width="44%" src="Imatges_repositori/prova.png">
+    <img width="44.2%" src="Imatges_repositori/prova.png">
     <img width="20%" src="Imatges_repositori/Sagital_3.png">
 </p>
 

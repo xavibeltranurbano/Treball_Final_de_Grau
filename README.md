@@ -64,7 +64,7 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 
 
 ## Resultat final
-### ·Model obtingut mitjançant un tall sagital
+### - Model obtingut mitjançant un tall sagital
 
 <p align="center" width="100%">
     <img width="30%" src="Imatges_repositori/Sagital_1.png">

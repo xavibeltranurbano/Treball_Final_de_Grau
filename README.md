@@ -26,7 +26,7 @@ Els requeriments per poder executar aquest projecte són els següents:
 ## MANUAL D'USUARI
 
 Els diferents passos per executar el present projecte són els següents:
-1. Executar els programes encarregats de la segmentació. En cas d'utilitzar l'algoritme K-means, un cop segmentat el tumor, utilitzar la funció 'niftiwrite' per guardar la segmentació d'aquest al ordinador. Altrament, utilitzar el següent codi:
+1. Executar els programes encarregats de la segmentació. En cas d'utilitzar l'algoritme K-means, un cop segmentat el tumor, utilitzar la funció 'niftiwrite()' per guardar la segmentació d'aquest, al ordinador. Altrament, utilitzar el següent codi:
 
 
 ```ruby

@@ -80,8 +80,8 @@ Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria 
 6. Donat que el tamany dels models és molt gran, haurem d'imprimir aquests per separat. Per tant, haurem de repetir els passos 3, 4 i 5 per cada model que volguem imprimir."
 
 
-## Resultat final
-### · Model obtingut mitjançant un tall sagital
+## RESULTAT FINAL
+### · MODEL OBTINGUT MITJANÇANT UN TALL SAGITAL 
 
 <p align="center" width="100%">
     <img width="45%" src="Imatges_repositori/Sagital_1.png">
@@ -90,7 +90,7 @@ Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria 
 </p>
 
  
- ### · Model obtingut mitjançant un tall transversal
+ ### · MODEL OBTINGUT MITJANÇANT UN TALL TRANSVERSAL 
 <p align="center" width="100%">
     <img width="40%" src="Imatges_repositori/Transversal_1.png">
     <img width="39.8%" src="Imatges_repositori/Transversal_2.png">

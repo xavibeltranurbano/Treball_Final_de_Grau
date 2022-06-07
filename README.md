@@ -56,13 +56,14 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 2. Seguidament, mitjançant MATLAB, executarem el software SPM12 per tal d'obtenir les diferents màscares del pacient en qüestió (segmentació del crani, segmentació de la substància gris, etc.).
 
 3. Un cop obtingudes les màscares del pacient, utilitzarem el programa anomenat 'Reconstruction3D.m' per tal de realitzar la reconstrucció del tumor i del crani del pacient. Si tot s'ha executat correctament, el programa ens hauria de crear 4 fitxers en format STL:
+
   - sagital1.stl
   - sagital2.stl
   - transversal1.stl
   - transversal2.stl
   - tumor.stl
-"
-3." A continuació, observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani. En cas negatiu, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  "
+
+3. A continuació, observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani. En cas negatiu, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  "
  
  <p align="center" width="100%">
     <img width="50%" src="Imatges_repositori/Insertar_Suport.PNG">
@@ -74,6 +75,7 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
     <img width="50%" src="Imatges_repositori/Exemple_Suports.png">
 </p>
 Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria USB.
+
 5. Per acabar, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
 
 6. Donat que el tamany dels models és molt gran, haurem d'imprimir aquests per separat. Per tant, haurem de repetir els passos 3, 4 i 5 per cada model que volguem imprimir."

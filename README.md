@@ -56,12 +56,11 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 2. Seguidament, mitjançant MATLAB, executarem el software SPM12 per tal d'obtenir les diferents màscares del pacient en qüestió (segmentació del crani, segmentació de la substància gris, etc.).
 
 3. Un cop obtingudes les màscares del pacient, utilitzarem el programa anomenat 'Reconstruction3D.m' per tal de realitzar la reconstrucció del tumor i del crani del pacient. Si tot s'ha executat correctament, el programa ens hauria de crear 4 fitxers en format STL:
-
-  · sagital1.stl
-  · sagital2.stl
-  · transversal1.stl
-  · transversal2.stl
-  · tumor.stl
+  - sagital1.stl
+  - sagital2.stl
+  - transversal1.stl
+  - transversal2.stl
+  - tumor.stl
 
 3. A continuació, observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani. En cas negatiu, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  "
  

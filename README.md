@@ -53,30 +53,30 @@ nifti_file = nibabel.Nifti1Image(converted_array, affine)
 path_to_save='PATH'
 nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on volem guardar la carpeta. En aquest directori ha d'estar especificat tant el nom de l'arxiu nifti que crearem, com la extensió d'aquest (.nii o .nii.gz)
 ```
-2. Seguidament, mitjançant MATLAB, executarem el software SPM12 per tal d'obtenir les diferents màscares del pacient en qüestió ( segmentació del crani, segmentació de la substància gris, etc.).
+2. "Seguidament, mitjançant MATLAB, executarem el software SPM12 per tal d'obtenir les diferents màscares del pacient en qüestió (segmentació del crani, segmentació de la substància gris, etc.)."
 
-3. Un cop obtingudes les màscares del pacient, utilitzarem el programa anomenat 'Reconstruction3D' per tal de realitzar la reconstrucció del tumor i del crani del pacient. Si tot s'ha executat correctament, el programa ens hauria de crear 4 fitxers en format STL:
+3. "Un cop obtingudes les màscares del pacient, utilitzarem el programa anomenat 'Reconstruction3D' per tal de realitzar la reconstrucció del tumor i del crani del pacient. Si tot s'ha executat correctament, el programa ens hauria de crear 4 fitxers en format STL:
 - sagital1.stl
 - sagital2.stl
 - transversal1.stl
 - transversal2.stl
 - tumor.stl
-
-3. A continuació, observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani. En cas negatiu, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  
+"
+3." A continuació, observarem les reconstruccions obtingudes mitjançant el software 3D Builder. Aleshores haurem de fixar-nos si la base del tumor està en contacte amb el crani. En cas negatiu, haurem de col·locar un suport de forma manual. Per acomplir aquesta tasca, simplement haurem de insertar un cilindre i col·locar-lo de manera que aquest estigui en contacte amb el crani i amb la base del tumor.  "
  
  <p align="center" width="100%">
     <img width="50%" src="Imatges_repositori/Insertar_Suport.PNG">
 </p>
  
 
-4. Seguidament, obrirem els fitxers resultants del pas anterior amb el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap a vall, per tal d'optimitzar la impressió. Un cop re-orientat el model, donat que la forma d'aquest no es uniforme, haurem de col·locar diferents suports, de forma manual, pel voltant del model. Per acomplir aquesta tasca, utilitzarem el plugin 'Csutom Supports'. En acabar de col·locar els suports, exportarem el model en format '.gcode'i el guardarem en una memòria USB. Imatges_repositori/Exemple_Suports.png
+4." Seguidament, obrirem els fitxers obtinguts en el pas anterior, mitjançant el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap a vall, per tal d'optimitzar la impressió. Un cop re-orientat el model, donat que la forma d'aquest no es uniforme, haurem de col·locar diferents suports, de forma manual, pel voltant del model. Per acomplir aquesta tasca, utilitzarem el plugin 'Csutom Supports'. En acabar de col·locar els suports, exportarem el model en format '.gcode'i el guardarem en una memòria USB." Imatges_repositori/Exemple_Suports.png
 <p align="center" width="100%">
     <img width="50%" src="Imatges_repositori/Exemple_Suports.png">
 </p>
 
-5. Finalment, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
+5. "Finalment, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
 
-6. Donat que el tamany dels models és molt gran, haurem d'imprimir aquests per separat. Per tant, haurem de repetir els passos 3, 4 i 5 per cada model que volguem imprimir.
+6. Donat que el tamany dels models és molt gran, haurem d'imprimir aquests per separat. Per tant, haurem de repetir els passos 3, 4 i 5 per cada model que volguem imprimir."
 
 
 ## Resultat final

@@ -5,13 +5,13 @@
 
 <p align="center" width="100%">
     <img width="23%" src="Imatges_repositori/flair.gif">
-    <img width="23%" src="Imatges_repositori/t1.gif">
+    <img width="23%" src="Imatges_repositori/flair2.gif">
     <img width="23%" src="Imatges_repositori/t1ce.gif">
     <img width="23%" src="Imatges_repositori/t2.gif">
 </p>
 <p align="center" width="100%">
     <img width="23%" src="Imatges_repositori/flairseg.gif">
-    <img width="23%" src="Imatges_repositori/t1seg.gif">
+    <img width="23%" src="Imatges_repositori/seg2.gif">
     <img width="23%" src="Imatges_repositori/t1ceseg.gif">
     <img width="23%" src="Imatges_repositori/t2seg.gif">
 </p>

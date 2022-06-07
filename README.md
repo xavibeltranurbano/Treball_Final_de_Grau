@@ -9,6 +9,13 @@
     <img width="23%" src="Imatges_repositori/t1ce.gif">
     <img width="23%" src="Imatges_repositori/t2.gif">
 </p>
+<p align="center" width="100%">
+    <img width="23%" src="Imatges_repositori/flairseg.gif">
+    <img width="23%" src="Imatges_repositori/t1seg.gif">
+    <img width="23%" src="Imatges_repositori/t1ceseg.gif">
+    <img width="23%" src="Imatges_repositori/t2seg.gif">
+</p>
+
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D
 Treball Final de Grau (TFG) del grau d'enginyeria biomèdica de la Universitat de Girona.

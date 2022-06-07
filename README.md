@@ -2,6 +2,12 @@
 <td><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
 <td><right><img width="4000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
+<p align="left" width="100%">
+    <img width="45%" src="Imatges_repositori/eps_logo.png">
+</p>
+<p align="right" width="100%">
+    <img width="45%" src="Imatges_repositori/vicorob_logo.png">
+</p>
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D
 Treball Final de Grau (TFG) del grau d'enginyeria biomèdica de la Universitat de Girona.

@@ -14,6 +14,14 @@ Els requeriments per poder executar aquest projecte són els següents:
 - 3D Builder
 - Python 3.6.9
    - Tensorflow 1.12 
+   - Numpy 1.19.5 
+   - Matplotlib 3.3.4
+   - NiBabel 3.2.2
+   - tqdm 4.63.0
+   - OpenCV 4.5.5.64
+   - scikit-image 0.17.2
+   - pandas 1.1.5
+   - SciPy 1.4.0
 
 ## MANUAL D'USUARI
 

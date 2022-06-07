@@ -4,8 +4,10 @@
 </tr></table>
 
 <p align="left" width="100%">
-    <img width="45%" src="Imatges_repositori/1.gif">
-    <img width="44.2%" src="Imatges_repositori/2.gif">
+    <img width="25%" src="Imatges_repositori/flair.gif">
+    <img width="25%" src="Imatges_repositori/t1.gif">
+    <img width="25%" src="Imatges_repositori/t1ce.gif">
+    <img width="25%" src="Imatges_repositori/t2.gif">
 </p>
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D

@@ -37,7 +37,7 @@ Els requeriments per poder executar aquest projecte són els següents:
 
 ## BASE DE DADES
 
-La base de dades utilitzada en el projecte prové del repte internacional conegut com a BraTS. Concretament, hem utilitzat les dades que es van utilitzar en aquest repte l'any 2018 [(BraTS'18 web)](https://www.med.upenn.edu/sbia/brats2018/registration.html).
+La base de dades utilitzada en el projecte prové del repte internacional conegut com a BraTS. Concretament, hem utilitzat les dades que es van utilitzar  l'any 2018 en aquest repte [(BraTS'18 web)](https://www.med.upenn.edu/sbia/brats2018/registration.html).
 
 ## MANUAL D'USUARI
 

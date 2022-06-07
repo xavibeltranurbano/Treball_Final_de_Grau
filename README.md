@@ -60,7 +60,7 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 
 5. Finalment, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
 
-6. Donat que el tamany dels models és molt grani, per tant, haurem d'imprimir aquests per separat, haurem de repetir els passos 3, 4 i 5 per cada model que volguem imprimir.
+6. Donat que el tamany dels models és molt gran, haurem d'imprimir aquests per separat. Per tant, haurem de repetir els passos 3, 4 i 5 per cada model que volguem imprimir.
 
 
 ## Resultat final

@@ -6,7 +6,6 @@ La finalitat d'aquest projecte és desenvolupar mètodes d'ajuda per realitzar u
 
 ## REQUERIMENTS D'INSTALACIÓ
 Els requeriments per poder executar aquest projecte són els següents:
-- Tensorflow 1.12
 - CuDNN 7.6.5
 - MATLAB R2022a
 - Base de dades del BraTS'18 [(BraTS'18 web)](https://www.med.upenn.edu/sbia/brats2018/registration.html)
@@ -14,6 +13,7 @@ Els requeriments per poder executar aquest projecte són els següents:
 - Plugin Custom Supports
 - 3D Builder
 - Python 3.6.9
+   - Tensorflow 1.12 
 
 ## MANUAL D'USUARI
 

@@ -32,8 +32,8 @@ Els requeriments per poder executar aquest projecte són els següents:
 - scikit-image 0.17.2
 - pandas 1.1.5
 - SciPy 1.4.0
-- Funció '_ImHausdorff_' [(Pàgina webweb per descarregar la funció)](https://es.mathworks.com/matlabcentral/fileexchange/70522-imhausdorff).
-- Funció '_Make STL of 3D array_'[(Pàgina webweb per descarregar la funció)](https://es.mathworks.com/matlabcentral/fileexchange/68794-make-stl-of-3d-array-optimal-for-3d-printing?s_tid=prof_contriblnk).
+- Funció '_ImHausdorff_' [(Pàgina web per descarregar la funció)](https://es.mathworks.com/matlabcentral/fileexchange/70522-imhausdorff).
+- Funció '_Make STL of 3D array_'[(Pàgina web per descarregar la funció)](https://es.mathworks.com/matlabcentral/fileexchange/68794-make-stl-of-3d-array-optimal-for-3d-printing?s_tid=prof_contriblnk).
 
 ## BASE DE DADES
 

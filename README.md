@@ -69,7 +69,7 @@ nibabel.save(nifti_file, path_to_save) # Canviar path_to_save pel directori on v
 </p>
  
 
-4. Seguidament, obrirem els fitxers obtinguts en el pas anterior, mitjançant el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap a vall, per tal d'optimitzar la impressió. Un cop re-orientat el model, donat que la forma d'aquest no es uniforme, haurem de col·locar diferents suports de forma manual. Per acomplir aquesta tasca, utilitzarem el plugin 'Csutom Supports'. Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria USB. Imatges_repositori/Exemple_Suports.png
+4. Seguidament, obrirem els fitxers obtinguts en el pas anterior, mitjançant el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap a vall, per tal d'optimitzar la impressió. Un cop re-orientat el model, donat que la forma d'aquest no es uniforme, haurem de col·locar diferents suports de forma manual. Per acomplir aquesta tasca, utilitzarem el plugin 'Csutom Supports'. Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria USB. 
 <p align="center" width="100%">
     <img width="50%" src="Imatges_repositori/Exemple_Suports.png">
 </p>
@@ -81,7 +81,7 @@ Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria 
 
 
 ## RESULTAT FINAL
-### · MODEL OBTINGUT MITJANÇANT UN TALL SAGITAL 
+### · Model obtingut mitjançant un tall sagital 
 
 <p align="center" width="100%">
     <img width="45%" src="Imatges_repositori/Sagital_1.png">
@@ -90,7 +90,7 @@ Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria 
 </p>
 
  
- ### · MODEL OBTINGUT MITJANÇANT UN TALL TRANSVERSAL 
+ ### · Model obtingut mitjançant un tall transversal 
 <p align="center" width="100%">
     <img width="40%" src="Imatges_repositori/Transversal_1.png">
     <img width="39.8%" src="Imatges_repositori/Transversal_2.png">

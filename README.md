@@ -16,7 +16,7 @@ La finalitat d'aquest projecte és desenvolupar mètodes d'ajuda per realitzar u
 Els requeriments per poder executar aquest projecte són els següents:
 - CuDNN 7.6.5
 - MATLAB R2022a
-- [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
+- SPM12
 - Ultimaker Cura
 - Plugin Custom Supports
 - 3D Builder

@@ -78,7 +78,7 @@ Finalment, exportarem el model en format '.gcode'i el guardarem en una memòria 
 
 5. Per acabar, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
 
-6. Donat que el tamany dels models és molt gran, haurem d'imprimir aquests per separat. Per tant, haurem de repetir els passos 3, 4 i 5 per cada model que vulguem imprimir."
+6. Donat que el tamany dels models és molt gran, haurem d'imprimir aquests per separat. Per tant, haurem de repetir els passos 3, 4 i 5 per cada model que vulguem imprimir.
 
 
 ## RESULTAT FINAL

@@ -1,9 +1,6 @@
-table, tr, td{
- border:none;
-}
 <table><tr>
 <td><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
-<td><right><img width="300%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
+<td><center><img width="20%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
 
 

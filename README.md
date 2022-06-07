@@ -1,8 +1,8 @@
  <p align="left" width="100%">
-    <img width="10%" src="Imatges_repositori/eps_logo.png">
-</p>
+    <img width="20%" src="Imatges_repositori/eps_logo.png">
  <p align="right" width="100%">
-    <img width="10%" src="Imatges_repositori/vicorob_logo.png">
+    <img width="20%" src="Imatges_repositori/vicorob_logo.png">
+</p>
 </p>
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D

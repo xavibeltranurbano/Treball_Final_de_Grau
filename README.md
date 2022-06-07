@@ -3,18 +3,14 @@
 <td><right><img width="4000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
 
-<div style="float:left;width:50%;">
-<div style="padding-right:10px;">
-LEFT CONTENT HERE
-</div></div>
-
-<div style="float:right;width:50%;">
-<div style="padding-left:10px;">
-
-RIGHT CONTENT HERE
-</div></div>
-
-<div style="clear: both;"></div>
+<table>
+<tbody>
+<tr>
+<td><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
+<td><right><img width="4000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
+</tr>
+</tbody>
+</table>
 
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D

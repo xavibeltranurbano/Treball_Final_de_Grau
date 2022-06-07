@@ -2,24 +2,24 @@
 <td><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
 <td><right><img width="4000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
-<p align="left" width="100%">
+<p align="left" width="50%">
     <img width="45%" src="Imatges_repositori/eps_logo.png">
 </p>
-<a align="right" width="100%">
+<a align="right" width="50%">
     <img width="45%" src="Imatges_repositori/vicorob_logo.png">
 </a>
 
-<a align="left" width="100%">
+<a align="left" width="50%">
     <img width="45%" src="Imatges_repositori/eps_logo.png">
 </a>
-<a align="right" width="100%">
+<a align="right" width="50%">
     <img width="45%" src="Imatges_repositori/vicorob_logo.png">
 </a>
 
-<br align="left" width="100%">
+<br align="left" width="50%">
     <img width="45%" src="Imatges_repositori/eps_logo.png">
 </br>
-<br align="right" width="100%">
+<br align="right" width="50%">
     <img width="45%" src="Imatges_repositori/vicorob_logo.png">
 </br>
 

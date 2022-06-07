@@ -1,3 +1,7 @@
+ <p align="left" width="100%">
+    <img width="10%" src="Imatges_repositori/Insertar_Suport.PNG">
+</p>
+
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D
 Treball Final de Grau (TFG) del grau d'enginyeria biomèdica de la Universitat de Girona.
 

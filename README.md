@@ -34,13 +34,13 @@ Els requeriments per poder executar aquest projecte són els següents:
 
 ## BASE DE DADES
 
-"La base de dades utilitzada en el projecte provenen del repte internacional conegut com a BraTS. Concretament, hem utilitzat les dades que es van utilitzar en aquest repte l'any 2018 [(BraTS'18 web)](https://www.med.upenn.edu/sbia/brats2018/registration.html) "
+<p style="text-align: justify;">La base de dades utilitzada en el projecte provenen del repte internacional conegut com a BraTS. Concretament, hem utilitzat les dades que es van utilitzar en aquest repte l'any 2018 [(BraTS'18 web)](https://www.med.upenn.edu/sbia/brats2018/registration.html) </p>
 
 ## MANUAL D'USUARI
 
-"Els diferents passos per executar el projecte, són els següents:
-1. Primerament hem d'obtenir la segmentació del tumor. Per acomplir aquesta tasca, haurem d'utilitzar algun dels models guardats dintre de la carpeta de la de segmentació binària mitjançant Deep Learning [(Clica per anar a la carpeta)](https://github.com/xavibeltranurbano/Treball_Final_de_Grau/tree/main/Segmentació%20del%20tumor/Deep%20Learning/Segmentació%20Binària).
-Un cop segmentat el tumor, per tal de convertir aquest en format 'nifti', utilitzarem el següent codi:"
+Els diferents passos per executar el projecte, són els següents:
+1. <p style="text-align: justify;">Primerament hem d'obtenir la segmentació del tumor. Per acomplir aquesta tasca, haurem d'utilitzar algun dels models guardats dintre de la carpeta de la de segmentació binària mitjançant Deep Learning [(Clica per anar a la carpeta)](https://github.com/xavibeltranurbano/Treball_Final_de_Grau/tree/main/Segmentació%20del%20tumor/Deep%20Learning/Segmentació%20Binària).
+Un cop segmentat el tumor, per tal de convertir aquest en format 'nifti', utilitzarem el següent codi: </p>
 
 
 ```ruby

@@ -1,8 +1,10 @@
- <p align="left" width="100%">
+<div id="unique-name" class"row"
+<p align="left" width="100%">
     <img width="20%" src="Imatges_repositori/eps_logo.png">
  <p align="right" width="100%">
     <img width="20%" src="Imatges_repositori/vicorob_logo.png">
 </p>
+</div>
 
 <div id="unique-name" class="row">
 <div class="col-md-12">

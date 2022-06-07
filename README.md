@@ -3,20 +3,6 @@
 <td><right><img width="4000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
 
-<table width="400" border="1" cellpadding="10" cellspacing="0" bordercolor="#000000">
-
-<tr>
-
-<td nowrap>Aunque este texto sea m&aacute;s ancho que los 400 p&iacute;xeles
-
-de la tabla, &eacute;sta no puede dividir mediante saltos de l&iacute;nea
-
-el contenido de la misma, por lo que se estira para albergar toda la frase.</td>
-
-</tr>
-
-</table>
-
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D
 Treball Final de Grau (TFG) del grau d'enginyeria biomèdica de la Universitat de Girona.
 

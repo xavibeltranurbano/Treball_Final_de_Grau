@@ -10,7 +10,7 @@ Treball Final de Grau (TFG) del grau d'enginyeria biomèdica de la Universitat d
 
 ## PROPÒSIT
 
-"La finalitat d'aquest projecte és desenvolupar mètodes d'ajuda per realitzar un preoperatori d'una manera més personalitzada i completa. Concretament, els mètodes que s'han desenvolupat consisteixen en programes  de segmentació del tumor, on per acomplir aquesta tasca, s'han utilitzat algoritmes no supervisats (K-Means) així com tècniques supervisades basades en xarxes neuronals convolucionals (CNNs). Un cop segmentat el tumor, aquest s'ha digitalitzat i imprès en 3D juntament amb el crani del pacient en qüestió."
+<p style="text-align: justify;">La finalitat d'aquest projecte és desenvolupar mètodes d'ajuda per realitzar un preoperatori d'una manera més personalitzada i completa. Concretament, els mètodes que s'han desenvolupat consisteixen en programes  de segmentació del tumor, on per acomplir aquesta tasca, s'han utilitzat algoritmes no supervisats (K-Means) així com tècniques supervisades basades en xarxes neuronals convolucionals (CNNs). Un cop segmentat el tumor, aquest s'ha digitalitzat i imprès en 3D juntament amb el crani del pacient en qüestió.</p>
 
 ## REQUERIMENTS D'INSTAL·LACIÓ
 

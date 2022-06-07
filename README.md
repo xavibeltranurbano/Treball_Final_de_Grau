@@ -1,4 +1,4 @@
-<table border="0" width="30%" height="auto"><tr>
+<table border="0" width="30%" height="auto" style="border: hidden"><tr>
 <td><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
 <td><right><img width="4000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>

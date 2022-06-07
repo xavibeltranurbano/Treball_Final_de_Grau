@@ -1,14 +1,9 @@
-<div id="unique-name" class"row"
-<p align="left" width="100%">
-    <img width="20%" src="Imatges_repositori/eps_logo.png">
- <p align="right" width="100%">
-    <img width="20%" src="Imatges_repositori/vicorob_logo.png">
-</p>
-</div>
-
+table, tr, td{
+ border:none;
+}
 <table><tr>
 <td><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
-<td><right><img width="100%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
+<td><right><img width="300%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
 
 

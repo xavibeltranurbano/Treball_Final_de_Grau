@@ -11,6 +11,7 @@
 </tr>
 </tbody>
 </table>
+<br style="clear:both;" />
 
 
 # Segmentació de lesions cerebrals procedents d'imatges mèdiques per la seva posterior digitalització i impressió en 3D

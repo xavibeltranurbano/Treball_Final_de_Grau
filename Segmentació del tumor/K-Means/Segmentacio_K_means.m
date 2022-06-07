@@ -112,9 +112,11 @@ for i=1:size(llista_test,1)
 end
 
 %% Mostrem els resultats obtinguts
+
 mitjana=mean(accuracy1);
 disp("MITJANA - DICE:")
 disp(mitjana);
+
 desviacio=std(accuracy1);
 disp("DESVIACIÓ ESTÀNDARD - DICE:")
 disp(desviacio);

@@ -6,9 +6,9 @@
 </p>
 </div>
 
-<table border="0" width="95%" height="auto"><tr>
+<table border="0" width="0%" height="auto"><tr>
 <td><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
-<td><right><img width="20%"src="Imatges_repositori/vicorob_logo.png" border="0"></right></td>
+<td><right><img width="100%"src="Imatges_repositori/vicorob_logo.png" border="0"></right></td>
 </tr></table>
 
 <div id="unique-name" class="row">

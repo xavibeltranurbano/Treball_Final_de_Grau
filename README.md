@@ -38,7 +38,7 @@ La base de dades utilitzada en el projecte provenen del repte internacional cone
 ## MANUAL D'USUARI
 
 Els diferents passos per executar el projecte, són els següents:
-1. Primerament hem d'obtenir la segmentació del tumor. Per acomplir aquesta tasca, haurem d'utilitzar algun dels models guardats dintre de la carpeta de la de segmentació binària mitjançant Deep Learning ([Clica per anar a la carpeta])(Treball_Final_de_Grau/Segmentació del tumor/Deep Learning/Segmentació Binària/)
+1. Primerament hem d'obtenir la segmentació del tumor. Per acomplir aquesta tasca, haurem d'utilitzar algun dels models guardats dintre de la carpeta de la de segmentació binària mitjançant Deep Learning ([Clica per anar a la carpeta])([Treball_Final_de_Grau/Segmentació del tumor/Deep Learning/Segmentació Binària/](https://github.com/xavibeltranurbano/Treball_Final_de_Grau/tree/main/Segmentació%20del%20tumor/Deep%20Learning/Segmentació%20Binària))
 Executar els programes encarregats de la segmentació. En cas d'utilitzar l'algoritme K-means, un cop segmentat el tumor, utilitzar la funció 'niftiwrite()' per guardar la segmentació d'aquest, al ordinador. Altrament, utilitzar el següent codi:
 
 

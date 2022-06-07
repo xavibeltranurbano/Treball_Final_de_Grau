@@ -1,6 +1,6 @@
 <table><tr>
 <td><left><img width="20%"src="Imatges_repositori/eps_logo.png" border="0"></left></td>
-<td><center><img width="1000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
+<td><center><img width="9000%"src="Imatges_repositori/vicorob_logo.png" border"0"></right></td>
 </tr></table>
 
 

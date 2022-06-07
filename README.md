@@ -73,12 +73,12 @@ nibabel.save(nifti_file, path_to_save)
 </p>
  
 
-4. Seguidament, obrirem els fitxers obtinguts en el pas anterior, mitjançant el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap avall, per tal d'optimitzar la impressió. Un cop reorientat el model, donat que la forma d'aquest no és uniforme, haurem de col·locar diferents suports de forma manual. Per acomplir aquesta tasca, utilitzarem el plugin 'Csutom Supports'. 
+4. Seguidament, obrirem els fitxers obtinguts en el pas anterior, mitjançant el software Ultimaker Cura. Aleshores, haurem de col·locar el tumor en orientació cap avall, per tal d'optimitzar la impressió. Un cop reorientat el model, donat que la forma d'aquest no és uniforme, haurem de col·locar diferents suports de forma manual. Per acomplir aquesta tasca, utilitzarem el plugin 'Cutom Supports'. 
 
 <p align="center" width="100%">
     <img width="50%" src="Imatges_repositori/Exemple_Suports.png">
 </p>
-Finalment, un cop col·locats els suports, exportarem el model en format '.gcode'i el guardarem en una memòria USB.
+Finalment, un cop col·locats els suports, exportarem el model en format '_.gcode_'i el guardarem en una memòria USB.
 
 5. Per acabar, col·locarem la memòria USB en la impressora, i començarem a imprimir el model.
 

@@ -82,7 +82,7 @@ nibabel.save(nifti_file, path_to_save)
 Seguidament, haurem de configurar els paràmetres de la impressió. En general, els utilitzats són els predeterminats pel programa, amb l'excepció de les següents modificacions:
 
 <p align="center" width="100%">
-    <img width="50%" src="Imatges_repositori/taula.png">
+    <img width="70%" src="Imatges_repositori/taula.png">
 </p>
 
 Finalment, un cop configurats els paràmetres de la impressió, exportarem el model en format '.gcode'i el guardarem en una memòria USB.

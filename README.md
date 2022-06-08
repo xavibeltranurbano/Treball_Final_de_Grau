@@ -79,7 +79,7 @@ nibabel.save(nifti_file, path_to_save)
     <img width="50%" src="Imatges_repositori/Exemple_Suports.png">
 </p>
 
-    Seguidament, haurem de configurar els paràmetres de la impressió. En general, els utilitzats són els predeterminats pel programa, amb l'excepció de                   les següents modificacions:
+Seguidament, haurem de configurar els paràmetres de la impressió. En general, els utilitzats són els predeterminats pel programa, amb l'excepció de                   les següents modificacions:
 
 <p align="center" width="100%">
     <img width="70%" src="Imatges_repositori/taula.png">

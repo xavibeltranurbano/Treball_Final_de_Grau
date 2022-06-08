@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="100%" src="Imatges_repositori/logo2.png">
+    <img width="100%" src="Imatges_repositori/logos2.png">
 </p>
 <p align="center" width="100%">
     <img width="100%" src="Imatges_repositori/GIF_FLAIRS.gif">
